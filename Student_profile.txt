@@ -1,0 +1,9 @@
+PNumber: mehdi
+Name: mehdi mehdi
+Email: mehdi
+Submission Date: 2023-11-08
+Selected Modules:
+CTEC3704 : Functional Programming
+IMAT3722 : Fuzzy Logic and Inference Systems
+Reserved Modules:
+CTEC3705 : Advanced Web Development
